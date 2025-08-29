@@ -1,6 +1,8 @@
-[
-  {
-    "name": "My Personal Server",
-    "url": "https://my-anisette-v3-server-s929.onrender.com"
-  }
-]
+{
+  "servers": [
+    {
+      "name": "My Personal Server",
+      "url": "https://YOUR-RENDER-URL.onrender.com"
+    }
+  ]
+}
