@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "My Personal Server",
-      "url": "https://YOUR-RENDER-URL.onrender.com"
+      "address": "https://my-anisette-v3-server-s929.onrender.com"
     }
   ]
 }
